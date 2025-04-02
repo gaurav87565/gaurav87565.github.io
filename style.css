@@ -1,0 +1,13 @@
+html {
+  background: url(1.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+.info {
+border: 3px solid green;
+text-align: center;
+    padding: 10px;
+    
+  justify-content: center;
+  align-items: center;
+}
